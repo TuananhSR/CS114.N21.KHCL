@@ -1,0 +1,514 @@
+{
+    "root" : [
+        {
+            "article_link" : "https://thanhnien.vn/nghe-an-nam-sinh-lop-11-tu-vong-nghi-bi-danh-nham-18523061913550674.htm",
+            "headline" : "Nghệ An: Nam sinh lớp 11 tử vong, nghi bị đánh nhầm",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://thanhnien.vn/vu-an-thuduc-house-11-25-cuu-can-bo-thue-hai-quan-duoc-de-nghi-an-treo-18523061913393759.htm",
+            "headline" : "Vụ án Thuduc House: 11/25 cựu cán bộ thuế, hải quan được đề nghị án treo",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://thanhnien.vn/vu-hoi-lo-30-ti-dong-o-quang-ninh-sai-pham-chi-goi-gon-tai-so-gd-dt-18523061911334587.htm",
+            "headline" : "Vụ hối lộ 30 tỉ đồng ở Quảng Ninh: Sai phạm chỉ gói gọn tại sở GD-ĐT?",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://thanhnien.vn/bat-giu-nghi-pham-co-5-tien-an-vua-ra-tu-lai-tiep-tuc-ban-ma-tuy-185230619111226955.htm",
+            "headline" : "Bắt giữ nghi phạm có 5 tiền án vừa ra tù lại tiếp tục bán ma túy",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://thanhnien.vn/an-treo-xet-xu-sao-cho-dung-luat-va-huong-dan-phai-ro-rang-de-ap-dung-minh-bach-1852306170056402.htm",
+            "headline" : "Án treo, xét xử sao cho đúng: Luật và hướng dẫn phải rõ ràng để áp dụng minh bạch",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://thanhnien.vn/vi-sao-de-thi-mon-sinh-hoc-ky-thi-tot-nghiep-thpt-nam-2021-bi-ro-ri-185230619161410545.htm",
+            "headline" : "Vì sao đề thi môn sinh học kỳ thi tốt nghiệp THPT năm 2021 bị rò rỉ?",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://thanhnien.vn/my-bat-giu-cong-dan-nga-vi-lien-quan-den-lockbit-185230619104034259.htm",
+            "headline" : "Mỹ bắt giữ công dân Nga vì liên quan đến LockBit",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://thanhnien.vn/tong-bi-thu-mot-so-nguoi-co-chuc-co-quyen-nhu-ong-vua-con-185230619151918508.htm",
+            "headline" : "Tổng Bí thư: 'Một số người có chức, có quyền như ông vua con'",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://thanhnien.vn/tong-bi-thu-chu-tri-hoi-nghi-danh-gia-ban-chi-dao-chong-tham-nhung-cap-tinh-185230619100626149.htm",
+            "headline" : "Tổng Bí thư chủ trì hội nghị đánh giá ban chỉ đạo chống tham nhũng cấp tỉnh",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://thanhnien.vn/ra-soat-sap-xep-cac-don-vi-hanh-chinh-cap-huyen-xa-185230619004031642.htm",
+            "headline" : "Rà soát, sắp xếp các đơn vị hành chính cấp huyện, xã",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baotintuc.vn/chinh-tri/tong-bi-thu-nguyen-phu-trong-nang-cao-nang-luc-lanh-dao-cua-dang-dap-ung-yeu-cau-thoi-ky-phat-trien-moi-20230515111238186.htm",
+            "headline" : "Tổng Bí thư Nguyễn Phú Trọng: Nâng cao năng lực lãnh đạo của Đảng, đáp ứng yêu cầu thời kỳ phát triển mới",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://plo.vn/o-to-4-cho-mat-lai-tong-thang-vao-nha-dan-post738606.html",
+            "headline" : "https://baotintuc.vn/chinh-tri/tong-bi-thu-nguyen-phu-trong-nang-cao-nang-luc-lanh-dao-cua-dang-dap-ung-yeu-cau-thoi-ky-phat-trien-moi-20230515111238186.htm",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://plo.vn/danh-vo-o-quang-nam-bi-thuong-nang-roi-tron-vao-binh-duong-thi-bi-bat-post738588.html",
+            "headline" : "Đánh vợ ở Quảng Nam bị thương nặng rồi trốn vào Bình Dương thì bị bắt",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://plo.vn/dak-lak-2-nguoi-chay-xe-may-bi-o-to-tai-chay-cung-chieu-can-qua-post738580.html",
+            "headline" : "Đắk Lắk: 2 người chạy xe máy bị ô tô tải chạy cùng chiều cán qua",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://plo.vn/camera-ghi-canh-thanh-nien-vao-quan-trom-dien-thoai-post738574.html#738574|latest-news|1",
+            "headline" : "Camera ghi cảnh thanh niên vào quán trộm điện thoại",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://plo.vn/ra-mat-dai-doi-canh-sat-co-dong-tai-tp-phu-quoc-post738554.html",
+            "headline" : "Ra mắt Đại đội Cảnh sát cơ động tại TP Phú Quốc",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://plo.vn/binh-phuoc-bat-giu-nhom-thanh-nien-gay-ra-vu-an-mang-post738566.html",
+            "headline" : "Bình Phước: Bắt giữ nhóm thanh niên gây ra vụ án mạng",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://plo.vn/1-van-dong-vien-nuoc-ngoai-tu-vong-tai-giai-dua-o-to-mo-to-o-ninh-thuan-post738547.html",
+            "headline" : "1 Vận động viên nước ngoài tử vong tại giải đua ô tô – mô tô ở Ninh Thuận",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://plo.vn/ho-tu-than-gay-sup-san-nut-nghieng-vach-nha-dan-post738535.html",
+            "headline" : "'Hố tử thần' gây sụp sân, nứt nghiêng vách nhà dân",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://plo.vn/bat-ke-trom-1-dem-dot-nhap-4-nha-dan-post738530.html",
+            "headline" : "Bắt kẻ trộm 1 đêm đột nhập 4 nhà dân",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://www.saostar.vn/giai-tri/vua-xin-loi-nguoi-yeu-cu-tran-thanh-lai-co-phat-ngon-chu-y-202306191522298608.html",
+            "headline" : "Vừa xin lỗi người yêu cũ, Trấn Thành lại có phát ngôn gây chú ý: Cảm ơn tất cả để hôm nay gặp được Hari Won",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://www.saostar.vn/sao-va-doi-song/con-gai-nsut-vu-linh-cau-xin-khan-gia-lam-viec-nay-202306191611088463.html",
+            "headline" : "Con gái NSƯT Vũ Linh cầu xin khán giả cùng làm việc này để lấy lại danh dự người ba quá cố",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://www.saostar.vn/sao-sport/hlv-troussier-tuyen-viet-nam-phai-tien-ra-chau-luc-202306191650275249.html",
+            "headline" : "HLV Troussier: Tuyển Việt Nam phải tiến ra châu lục",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://www.saostar.vn/am-nhac/mot-nu-ca-si-bat-ngo-dang-clip-son-tung-len-trang-ca-nhan-202306191524508846.html",
+            "headline" : "Một nữ ca sĩ đăng clip Sơn Tùng lên trang cá nhân, mối quan hệ khiến nhiều người bất ngờ",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://www.saostar.vn/sao-sport/hot-girl-tram-anh-bo-bong-da-danh-tinh-yeu-cho-mon-golf-202306191441161177.html",
+            "headline" : "Hot girl Trâm Anh bỏ bóng đá, dành tình yêu cho môn golf",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/tuyen-nu-viet-nam-nhan-that-bai-dau-tien-tai-chau-au/c/46135558.epi",
+            "headline" : "Tuyển nữ Việt Nam nhận thất bại đầu tiên tại châu Âu",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/thu-loi-hon-100-ty-cuu-gd-benh-vien-thu-duc-vung-tien-sam-2-biet-thu/c/46134663.epi",
+            "headline" : "Thu lợi hơn 100 tỷ, cựu GĐ Bệnh viện Thủ Đức vung tiền sắm 2 biệt thự",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/tong-thong-han-quoc-va-phu-nhan-sap-tham-viet-nam/c/46135866.epi",
+            "headline" : "Tổng thống Hàn Quốc và Phu nhân sắp thăm Việt Nam",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/dan-sao-som-roi-bo-bong-da-chau-au/c/46136457.epi",
+            "headline" : "Dàn sao sớm rời bỏ bóng đá châu Âu",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/thay-anh-cua-chong-tai-cua-hang-o-han-quoc-vo-nsnd-cong-ly-phan-ung-the-nao/c/46135152.epi",
+            "headline" : "Thấy ảnh của chồng tại cửa hàng ở Hàn Quốc, vợ NSND Công Lý phản ứng thế nào?",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/chu-tich-quoc-hoi-phan-khuc-bds-cao-cap-qua-nhieu/c/46136508.epi",
+            "headline" : "Chủ tịch Quốc hội: Phân khúc BĐS cao cấp quá nhiều",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/tong-thong-vladimir-putin-gui-thu-toi-chu-tich-nuoc-vo-van-thuong/c/46136464.epi",
+            "headline" : "Tổng thống Vladimir Putin gửi thư tới Chủ tịch nước Võ Văn Thưởng",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/de-xuat-khong-bat-buoc-mua-ban-bat-dong-san-phai-qua-san-giao-dich/c/46136068.epi",
+            "headline" : "Đề xuất không bắt buộc mua bán bất động sản phải qua sàn giao dịch",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/khong-nen-quy-dinh-ve-bat-dong-san-hinh-thanh-trong-tuong-lai/c/46135325.epi",
+            "headline" : "Không nên quy định về bất động sản hình thành trong tương lai",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/cong-vien-da-ninh-thuan-an-tuong-ve-dep-hoang-so-ky-vi/c/46133058.epi",
+            "headline" : "Công viên đá Ninh Thuận: Ấn tượng vẻ đẹp hoang sơ, kỳ vĩ",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/du-lich-suoi-dip-he-o-binh-thuan/c/46133029.epi",
+            "headline" : "Du lịch suối dịp hè ở Bình Thuận",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/chiem-bai-ngoi-chua-co-vuon-thap-lon-nhat-viet-nam-o-bac-giang/c/46132130.epi",
+            "headline" : "Chiêm bái ngôi chùa có vườn tháp lớn nhất Việt Nam ở Bắc Giang",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/quan-dao-nho-hoang-so-o-kien-giang/c/46126200.epi",
+            "headline" : "Quần đảo nhỏ hoang sơ ở Kiên Giang",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/ngo-ngang-truoc-ve-dep-hoang-so-ky-bi-cua-dong-nguom-ngao/c/46125631.epi",
+            "headline" : "Ngỡ ngàng trước vẻ đẹp hoang sơ, kỳ bí của động Ngườm Ngao",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/5-dia-diem-cam-trai-san-may-tai-da-lat/c/46123842.epi",
+            "headline" : "5 địa điểm cắm trại săn mây tại Đà Lạt",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/tron-khoi-bui-tai-vuon-quoc-gia-cat-tien/c/46122807.epi",
+            "headline" : "Trốn khói bụi tại Vườn quốc gia Cát Tiên",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/ve-bac-ninh-chiem-nguong-kien-truc-co-doc-dao-o-chua-but-thap/c/46119288.epi",
+            "headline" : "Về Bắc Ninh, chiêm ngưỡng kiến trúc cổ độc đáo ở chùa Bút Tháp",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/kham-pha-ve-dep-nguyen-so-cua-hang-da-tham-binh/c/46116189.epi",
+            "headline" : "Khám phá vẻ đẹp nguyên sơ của hang đá Thằm Bình",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/kham-pha-bien-hoc-mo-ngam-ganh-da-hinh-rua-o-quang-ngai/c/46114447.epi",
+            "headline" : "Khám phá biển Hóc Mó, ngắm gành đá hình rùa ở Quảng Ngãi",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/5-diem-lan-bien-hut-khach-bac-nhat-viet-nam/c/46109434.epi",
+            "headline" : "5 điểm lặn biển hút khách bậc nhất Việt Nam",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/dong-hoa-trong-tren-ruong-bac-thang-diem-den-moi-dep-nhu-co-tich-o-hoa-binh/c/46108065.epi",
+            "headline" : "Đồng hoa trồng trên ruộng bậc thang, điểm đến mới đẹp như cổ tich ở Hòa Bình",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/top-10-thang-canh-phai-ghe-tham-o-dong-bang-song-cuu-long/c/46106755.epi",
+            "headline" : "Top 10 thắng cảnh phải ghé thăm ở đồng bằng sông Cửu Long",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/ve-hai-duong-tham-di-tich-con-son-giua-nui-rung-xanh-muot/c/46104947.epi",
+            "headline" : "Về Hải Dương, thăm di tích Côn Sơn giữa núi rừng xanh mướt",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/quang-ngai-reu-xanh-o-bo-bien-cua-dai-khien-du-khach-ngan-ngo/c/46099541.epi",
+            "headline" : "Quảng Ngãi: Rêu xanh ở bờ biển Cửa Đại khiến du khách ngẩn ngơ",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/tinh-bao-anh-giao-tranh-nga-ukraine-ac-liet-hai-ben-thuong-vong-lon/c/46135733.epi",
+            "headline" : "Tình báo Anh: Giao tranh Nga - Ukraine ác liệt, hai bên thương vong lớn",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/nam-thanh-nien-dung-sung-de-doa-khi-xay-ra-mau-thuan/c/46136268.epi",
+            "headline" : "Nam thanh niên dùng súng đe dọa khi xảy ra mâu thuẫn",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/hang-tram-nghin-ho-dan-khong-duoc-cap-so-do-vi-chu-dau-tu-no-tien-nha-nuoc/c/46136257.epi",
+            "headline" : "Hàng trăm nghìn hộ dân không được cấp sổ đỏ vì chủ đầu tư nợ tiền nhà nước",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/dia-phuong-thu-hai-tai-binh-duong-chi-tien-boi-thuong-vanh-dai-3/c/46136216.epi",
+            "headline" : "Địa phương thứ hai tại Bình Dương chi tiền bồi thường Vành đai 3",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/clip-xot-xa-khoanh-khac-voi-me-co-gang-hoi-sinh-voi-con-da-chet/c/46136431.epi",
+            "headline" : "Clip: Xót xa khoảnh khắc voi mẹ cố gắng hồi sinh voi con đã chết",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/de-gea-da-nhan-duoc-mot-mon-hoi-tu-man-utd/c/46135770.epi",
+            "headline" : "De Gea đã nhận được một món hời từ Man Utd",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/cuu-hlv-inter-milan-an-tuong-voi-cau-thu-viet-nam-nao-nhat/c/46135945.epi",
+            "headline" : "Cựu HLV Inter Milan ấn tượng với cầu thủ Việt Nam nào nhất?",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/nhieu-nuoc-tren-the-gioi-trai-qua-dot-nang-nong-bat-thuong/c/46136025.epi",
+            "headline" : "Nhiều nước trên thế giới trải qua đợt nắng nóng bất thường",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/kho-tin-5-truong-hop-song-lai-trong-quan-tai-truoc-khi-chon-cat/c/46136126.epi",
+            "headline" : "Khó tin 5 trường hợp sống lại trong quan tài trước khi chôn cất",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/barca-don-tan-binh-dau-tien-trong-he-2023/c/46136133.epi",
+            "headline" : "Barca đón tân binh đầu tiên trong hè 2023",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/tham-do-du-luan-ve-1-471-ung-vien-duoc-de-nghi-xet-tang-danh-hieu-nha-giao-nhan-dan-nha-giao-uu-tu/c/46136399.epi",
+            "headline" : "Thăm dò dư luận về 1.471 ứng viên được đề nghị xét tặng danh hiệu Nhà giáo Nhân dân, Nhà giáo Ưu tú",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "Airbus ký hợp đồng gần 7 tỷ USD với Saudi Arabia để chế tạo trực thăng",
+            "headline" : "Airbus ký hợp đồng gần 7 tỷ USD với Saudi Arabia để chế tạo trực thăng",
+            "is_sarcastic" : 0
+        },
+        {
+            "article_link" : "https://baomoi.com/nhom-nam-nu-tu-trong-quan-karaoke-su-dung-trai-phep-chat-ma-tuy/c/46134841.epi",
+            "headline" : "Nhóm nam nữ 'tụ' trong quán karaoke, sử dụng trái phép chất ma túy",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://baomoi.com/canh-tuong-xau-ho-cua-nhom-thanh-nien-luc-nua-dem/c/46135020.epi",
+            "headline" : "Cảnh tượng xấu hổ của nhóm thanh niên lúc nửa đêm",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://baomoi.com/bat-qua-tang-17-nguoi-bay-lac-trong-quan-karaoke/c/46132934.epi",
+            "headline" : "Bắt quả tang 17 người bay lắc trong quán karaoke",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://baomoi.com/ap-vao-phong-vip-3-bat-qua-tang-3-thanh-nien-dang-lam-chuyen-xau-truoc-mat-2-nu-tiep-vien/c/46133236.epi",
+            "headline" : "Ập vào phòng VIP 3, bắt quả tang 3 thanh niên đang làm chuyện xấu trước mặt 2 nữ tiếp viên",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://baomoi.com/khong-nen-quan-niem-nha-o-xa-hoi-la-nha-re-tien-chat-luong-thap/c/46134535.epi",
+            "headline" : "Không nên quan niệm nhà ở xã hội là 'nhà rẻ tiền' chất lượng thấp",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://antg.cand.com.vn/ho-so-interpol/cai-ket-cua-mot-ong-trum-bai-cuoi--i697446/",
+            "headline" : "Cái kết của một “ông trùm” (bài cuối)",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://baomoi.com/dai-bieu-hien-ke-han-che-nguoi-co-thu-nhap-cao-tranh-mua-thue-nha-o-xa-hoi/c/46131403.epi",
+            "headline" : "Đại biểu hiến kế hạn chế người có thu nhập cao 'tranh' mua, thuê nhà ở xã hội",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://tienphong.vn/bao-trung-quoc-mia-mai-doi-nha-khi-world-cup-mo-rong-khi-nao-thang-duoc-dt-viet-nam-hay-ban-post1458526.tpo",
+            "headline" : "Báo Trung Quốc mỉa mai đội nhà khi World Cup mở rộng: 'Khi nào thắng được ĐT Việt Nam hãy bàn'",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://baomoi.com/chong-tro-ve-sau-5-nam-xa-xu-nhung-toi-lai-khong-cam-thay-vui/c/46136101.epi",
+            "headline" : "Chồng trở về sau 5 năm xa xứ nhưng tôi lại không cảm thấy vui",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://baomoi.com/tuoi-55-cua-chong-nsnd-hong-van-tai-tu-dien-anh-mot-thoi-bat-ngo-giam-42kg-khong-can-dao-keo/c/46130974.epi",
+            "headline" : "Tuổi 55 của chồng NSND Hồng Vân: Tài tử điện ảnh một thời, bất ngờ giảm 42kg không cần 'dao kéo'",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://baonghean.vn/bi-mia-mai-o-ban-yen-xuan-ban-gai-dang-van-lam-dap-tra-cuc-gat-post224158.html",
+            "headline" : "Bị mỉa mai ở bẩn, Yến Xuân bạn gái Đặng Văn Lâm đáp trả cực ‘gắt’",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://dantri.com.vn/suc-manh-so/nu-tiktoker-kien-cha-me-vi-tu-y-sinh-ra-co-20230601010228064.htm",
+            "headline" : "Nữ TikToker kiện cha mẹ vì… tự ý sinh ra cô",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" :"https://dantri.com.vn/suc-manh-so/tcl-viet-nam-treo-ban-do-khong-co-hoang-sa-truong-sa-20230525145426886.htm",
+            "headline" : "TCL Việt Nam treo bản đồ không có Hoàng Sa, Trường Sa?",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://dantri.com.vn/suc-manh-so/lang-ma-ban-gai-youtuber-noi-tieng-nhan-an-phat-ky-la-chua-tung-co-20230524155041095.htm",
+            "headline" : "Lăng mạ bạn gái, Youtuber nổi tiếng nhận án phạt kỳ lạ chưa từng có",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/co-phai-mot-so-nguoi-tre-dang-dan-quen-loi-cam-on-185230617032751415.htm",
+            "headline" : "Có phải một số người trẻ đang dần quên... lời cảm ơn?",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/nguoi-tre-me-thuoc-la-dien-tu-coi-chung-185230617042238999.htm",
+            "headline" : "Người trẻ mê thuốc lá điện tử, coi chừng…",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/youtuber-bay-to-su-hoi-han-chi-vi-dieu-nay-18523061614130342.htm",
+            "headline" : "YouTuber bày tỏ sự hối hận chỉ vì điều này...",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/sao-lai-mang-chuyen-gioi-tinh-cua-nguoi-khac-ra-dua-gion-185230615161405289.htm",
+            "headline" : "Sao lại mang chuyện giới tính của người khác ra đùa giỡn?",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/coi-chung-mat-mang-khi-hoc-theo-cach-tu-che-may-phat-dien-tren-mang-xa-hoi-185230612163717851.htm",
+            "headline" : "Coi chừng mất mạng khi học theo cách tự chế máy phát điện trên mạng xã hội",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/hang-loat-nhung-vi-than-xuat-hien-tren-mang-xa-hoi-truoc-ky-thi-185230615130146828.htm",
+            "headline" : "Hàng loạt 'vị thần' xuất hiện trên mạng xã hội trước kỳ thi",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/gia-dinh-chu-cap-35-trieu-dong-thang-sinh-vien-than-khong-du-song-o-thanh-pho-185230615152835439.htm",
+            "headline" : "Gia đình chu cấp 3,5 triệu đồng/tháng, sinh viên than không đủ sống ở thành phố",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/ba-hoa-rinh-rap-nguoi-o-tro-18523061300055488.htm",
+            "headline" : "'Bà hỏa' rình rập người ở trọ",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/nguoi-yeu-dau-tu-chung-khoan-thua-lo-chang-trai-chat-van-va-nhan-cai-ket-185230612131239397.htm",
+            "headline" : "Người yêu đầu tư chứng khoán thua lỗ, chàng trai chất vấn và nhận cái kết...",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/sinh-vien-di-lam-them-chi-de-kiem-tien-thi-vo-nghia-185230611012737113.htm",
+            "headline" : "Sinh viên đi làm thêm chỉ để kiếm tiền thì vô nghĩa?",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/hoc-sinh-dung-chatgpt-de-lam-bai-tap-nhung-bi-phat-hien-vi-dieu-nay-185230611093034499.htm",
+            "headline" : "Học sinh dùng ChatGPT để làm bài tập nhưng bị phát hiện vì điều này...",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/la-doi-chuyen-gen-z-bo-cong-cham-soc-da-mat-nhung-lai-thuc-khuya-185230606182228597.htm",
+            "headline" : "Lạ đời chuyện gen Z bỏ công chăm sóc da mặt nhưng lại… thức khuya",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/kho-chi-vi-co-ve-ngoai-khong-than-thien-185230606141322038.htm",
+            "headline" : "Khổ chỉ vì có vẻ ngoài không... thân thiện",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/nguoi-tre-di-hoc-cuoi-185230606115751567.htm",
+            "headline" : "Người trẻ đi học... cười",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/tranh-cai-ve-thay-giao-an-xin-day-tieng-anh-185230604131534713.htm",
+            "headline" : "Tranh cãi về 'thầy giáo ăn xin dạy tiếng Anh'",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/tham-gia-trao-luu-tren-mang-cau-be-13-tuoi-nhan-cai-ket-kho-tin-185230603133814248.htm",
+            "headline" : "Tham gia trào lưu trên mạng, cậu bé 13 tuổi nhận cái kết khó tin...",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/tham-gia-trao-luu-tren-mang-cau-be-13-tuoi-nhan-cai-ket-kho-tin-185230603133814248.htm",
+            "headline" : "Tham gia trào lưu trên mạng, cậu bé 13 tuổi nhận cái kết khó tin...",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/khi-mua-he-de-hoc-va-tra-no-mon-185230602161309499.htm",
+            "headline" : "Khi mùa hè để học và… trả nợ môn",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/chi-vi-trang-diem-qua-gioi-ma-chang-trai-bi-to-la-mao-danh-18523060110161791.htm",
+            "headline" : "Chỉ vì trang điểm quá giỏi mà chàng trai bị tố là mạo danh",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/sinh-vien-tiet-kiem-chi-tieu-va-cai-ket-185230531140030365.htm",
+            "headline" : "Sinh viên tiết kiệm chi tiêu và cái kết...",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/over-hop-la-gi-ma-nhieu-nguoi-dua-nhau-bat-trend-18523053002521287.htm",
+            "headline" : "Over hợp là gì mà nhiều người đua nhau 'bắt trend'?",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/choang-vang-voi-nhung-email-khong-the-tin-noi-cua-sinh-vien-gui-thay-co-185230530103721699.htm",
+            "headline" : "Choáng váng với những email 'không thể tin nổi' của sinh viên gửi thầy cô",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/nu-sinh-13-tuoi-chet-nao-vi-bat-chuoc-trao-luu-tren-mang-185230525050431068.htm",
+            "headline" : "Nữ sinh 13 tuổi chết não vì bắt chước trào lưu trên mạng",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/quang-cao-web-ca-do-bua-vay-sinh-vien-lang-dai-hoc-185230524133654319.htm",
+            "headline" : "Quảng cáo web cá độ 'bủa vây' sinh viên làng đại học",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/co-phai-hoc-khoi-nganh-khoa-hoc-xa-hoi-la-kem-coi-185230522030941984.htm",
+            "headline" : "Có phải học khối ngành khoa học xã hội là kém cỏi?",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/noi-tieng-tren-mang-xa-hoi-boi-cau-chuyen-an-chay-185230522172227669.htm",
+            "headline" : "Nổi tiếng trên mạng xã hội bởi câu chuyện... ăn chay",
+            "is_sarcastic" : 1
+        },
+        {
+            "article_link" : "https://thanhnien.vn/dau-dau-khi-du-lich-thuc-don-mot-dang-mon-ra-mot-neo-185230522160222655.htm",
+            "headline" : "Đau đầu khi du lịch: 'Thực đơn một đằng, món ra một nẻo'",
+            "is_sarcastic" : 1
+        }
+    ]
+}
